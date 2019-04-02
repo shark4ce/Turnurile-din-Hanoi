@@ -3,6 +3,7 @@ Acest program rezolva jocul "Turnurile din Hanoi" folosind un numar mini de muta
 
 ---Pentru rulare----:
 terminal: make
+
           ./hannoi test5.in a.out
 
 
