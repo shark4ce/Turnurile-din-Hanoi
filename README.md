@@ -1,6 +1,12 @@
 # Turnurile-din-Hanoi
 Acest program rezolva jocul "Turnurile din Hanoi" folosind un numar mini de mutari( 2^n - 1) folosind Structuri de Date.
 
+---Pentru rulare----:
+terminal: make
+          ./hannoi test5.in a.out
+
+
+
 Programul primeste ca input un fisier ce contine un set de operatii, care pot fi:
 
 1. add[culoare_disc][dimensiunea_disc] - operatie care adauga un disc de o anumita marime pe un primul turn (reprezentata ca stiva A, in ordine descrescatoare a diametrului, de sus in jos)
